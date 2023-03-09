@@ -9,6 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="IronOcr" Version="2023.3.2" />
+    <PackageReference Include="IronPdf" Version="2023.3.2" />
     <PackageReference Include="Magick.NET-Q16-AnyCPU" Version="12.3.0" />
     <PackageReference Include="Magick.NET.Core" Version="12.3.0" />
   </ItemGroup>
